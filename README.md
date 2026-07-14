@@ -37,7 +37,7 @@ Instagram Reels has 130M daily active users in India, spending an average of 32 
 
 Each feature was sized using conservative, bottom-up estimates built from India's Reels DAU base and interview-derived conversion assumptions. Full calculations and assumptions are in the appendix of the deck.
 
-![Estimated annual impact by feature](./assets/impact-analysis.png)
+![Estimated annual impact by feature](./impact-analysis.png)
 
 ## Success metrics
 
