@@ -47,7 +47,7 @@ Supporting metrics: template usage rate, draft-to-post conversion rate, brand ch
 
 ## Full case study
 
-[Instagram_Reel_Breakdown.pdf](./Instagram_Reel_Breakdown.pdf) — complete deck including all personas, the full 8-step journey map, competitive matrix, and impact appendix.
+[Instagram_Reel_Breakdown.pdf](./Instagram_Reel_Breakdown.pdf) - complete deck including all personas, the full 8-step journey map, competitive matrix, and impact appendix.
 
 ---
 
